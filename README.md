@@ -5,4 +5,4 @@ Ce repository Git contient du code pour déployer et configurer Infracost en mod
 
 ### Récupération des clés d'API
 
-Rendez-vous sur la documentation Infracost sur [Article Infracost](https://nubo-dx.com) pour obtenir les clés d'API nécessaires. Suivez les instructions pour créer un compte et générer les clés d'API requises.
+Rendez-vous sur la documentation Infracost sur [Article Infracost](https://blog.nubo-dx.com/Infracost-self-hosted) pour obtenir les clés d'API nécessaires. Suivez les instructions pour créer un compte et générer les clés d'API requises.
